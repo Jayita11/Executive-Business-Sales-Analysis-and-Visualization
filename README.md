@@ -141,6 +141,7 @@ These filters enable targeted analysis by adjusting time, location, and product 
 ![Screenshot 2024-09-20 at 1 00 41 AM](https://github.com/user-attachments/assets/9ce6475e-c88e-4e64-abea-417568393256)
 
 3.Which region generates the highest total profit based on customer orders?
+
 ![Screenshot 2024-09-20 at 1 01 14 AM](https://github.com/user-attachments/assets/17f7994c-285b-426b-97a4-2dd00a5962c3)
 
 ![Screenshot 2024-09-20 at 1 01 30 AM](https://github.com/user-attachments/assets/03a99627-b522-4a87-b419-0ff400dacce6)
@@ -152,7 +153,9 @@ These filters enable targeted analysis by adjusting time, location, and product 
 ![Screenshot 2024-09-20 at 1 02 52 AM](https://github.com/user-attachments/assets/3c22777e-4188-4509-9642-bff1b7bbdd2e)
 
 5.Which products have an average discount greater than 50%, and how are they ranked by their average discount?
-![Screenshot 2024-09-20 at 1 03 43 AM](https://github.com/user-attachments/assets/353a3013-a9ea-4ea7-a781-1672f07fe1eb)
+
+![Screenshot 2024-09-20 ![Screenshot 2024-09-20 at 1 04 41 AM](https://github.com/user-attachments/assets/dccc3341-ae1f-4e77-b775-b1df09fcb321)
+at 1 03 43 AM](https://github.com/user-attachments/assets/353a3013-a9ea-4ea7-a781-1672f07fe1eb)
 
 ## Recommendations
 
