@@ -17,11 +17,16 @@ As businesses face increasing complexity with varying customer demands and regio
 - **Product Category Trends:** Identification of strong-performing product categories to align inventory and marketing strategies with customer demand.
 - **Seasonal Sales Trends:** Evaluation of sales spikes during key periods to optimize inventory and promotional efforts around peak demand times.
 
-An interactive Tableau dashboard accompanies this project to provide a dynamic and visual exploration of the findings.
+An interactive Tableau dashboard accompanies this project to provide a dynamic and visual exploration of the findings [here](https://public.tableau.com/app/profile/jayita.chatterjee/viz/SalesCustomerDashboard_17244002737510/SalesDashboard).
 
-Excel is used to inspect, clean, and prepare the data for analysis, ensuring accurate and actionable insights.
+Excel is used to inspect, clean, and prepare the data for analysis, ensuring accurate and actionable insights can be found [here](#).
 
-The SQL queries regarding various business questions can be found in the respective sections.
+The SQL queries regarding various business questions can be found [here](https://github.com/Jayita11/Executive-Business-Sales-Analysis-and-Visualization/tree/main/SQL).
+
+Python is used to insert data into SQL, and the relevant scripts can be found [here](https://github.com/Jayita11/Executive-Business-Sales-Analysis-and-Visualization/tree/main/Python_Code_SQL_Data_Insertion).
+
+By harnessing this data, businesses can address key operational challenges, optimize performance, and improve overall profitability.
+
 
 ## Dataset
 
