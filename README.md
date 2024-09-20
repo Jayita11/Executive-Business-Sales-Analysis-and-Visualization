@@ -135,14 +135,17 @@ These filters enable targeted analysis by adjusting time, location, and product 
  ![Screenshot 2024-09-20 at 12 59 41 AM](https://github.com/user-attachments/assets/a78c959b-e982-451a-94b0-1f1b81bbb970)
 
 - **Insights:**
+  
 Furniture:
 HON 5400 Series Task Chairs for Big and Tall is the top-seller with total sales of $21,870.57.
 Riverside Palais Royal Lawyers Bookcase Royale Cherry Finish ranks second with $15,610.97 in sales.
 Bretford Rectangular Conference Table Tops is the third best-seller with $12,995.28.
+
 Office Supplies:
 Fellowes PB500 Electric Punch Binding Machine leads with total sales of $27,453.38.
 GBC DocuBind TL300 Electric Binding System comes second with $19,823.48.
 GBC Ibimaster 500 Manual ProClick Binding System ranks third with $19,024.50.
+
 Technology:
 Canon imageCLASS 2200 Advanced Copier is the best-seller with $61,599.83 in sales.
 Cisco TelePresence System EX90 Videoconferencing Unit follows with $22,638.48.
@@ -155,6 +158,14 @@ Hewlett Packard LaserJet 3310 Copier is third with $18,839.68.
  ![Screenshot 2024-09-20 at 1 00 41 AM](https://github.com/user-attachments/assets/9ce6475e-c88e-4e64-abea-417568393256)
 
 - **Insights:**
+Consumer segment generates the highest total profit, with a profit of $134,119.33.
+
+Corporate segment comes in second, generating a total profit of $91,779.45.
+
+Home Office segment generates the lowest total profit, with $60,299.01.
+
+These insights indicate that the Consumer segment is the most profitable, followed by Corporate and Home Office segments.
+
 3.Which region generates the highest total profit based on customer orders?
 
 ![Query_3](https://github.com/user-attachments/assets/8c631dbf-c28f-4ceb-90f0-e6cca247e0c7)
@@ -162,6 +173,16 @@ Hewlett Packard LaserJet 3310 Copier is third with $18,839.68.
  ![Screenshot 2024-09-20 at 1 01 30 AM](https://github.com/user-attachments/assets/03a99627-b522-4a87-b419-0ff400dacce6)
 
 - **Insights:**
+West region generates the highest total profit of $109,880.
+
+East region follows with a total profit of $89,278.
+
+South region ranks third with a total profit of $48,995.
+
+Central region generates the lowest total profit of $39,706.
+
+These insights show that the West and East regions are the most profitable, while the South and Central regions generate lower profits.
+
 4.How can we identify the most recent order for each customer, along with their total order count?
 
 ![Query_4](https://github.com/user-attachments/assets/4a33fb3e-3909-4e8f-9ba1-d81df174bbad)
@@ -169,6 +190,17 @@ Hewlett Packard LaserJet 3310 Copier is third with $18,839.68.
  ![Screenshot 2024-09-20 at 1 02 52 AM](https://github.com/user-attachments/assets/3c22777e-4188-4509-9642-bff1b7bbdd2e)
 
 - **Insights:**
+Highest Order Counts:
+William Brown has the highest number of orders with 37 orders.
+John Leo and Matt Abelman both have 34 orders.
+Paul Post and Chloris Katsenstein each have 32 orders.
+Edward Hooks and Jonathan Doherty have 31 orders.
+
+Lower Order Counts:
+Many customers have 2 to 3 orders, including Pauline Chand, Paul Knutson, Ritsa Hightower, and Tim Taslimi.
+Several customers have made only 1 order, such as Carl Jackson, Jocasta Rupert, Lela Donovan, and Ricardo Emerson.
+These insights show a range of customer engagement, from highly frequent buyers like William Brown to those with just a few purchases.
+
 5.Which products have an average discount greater than 50%, and how are they ranked by their average discount?
 
 ![Query_5](https://github.com/user-attachments/assets/410e2355-c160-4b9e-9e33-840d06d8ca91)
@@ -176,6 +208,23 @@ Hewlett Packard LaserJet 3310 Copier is third with $18,839.68.
  ![Screenshot 2024-09-20 at 1 51 53 AM](https://github.com/user-attachments/assets/d45d6cb5-e17b-4632-b1fe-7aee71cbbfd1)
 
 - **Insights:**
+Top Discounted Product:
+Eureka Disposable Bags for Sanitaire Vibra Groomer I Upright Vac has the highest average discount of 80%.
+
+High Discounts (70-79%):
+GBC Plasticlar Binding Covers and GBC VeloBinder Electric Binding Machine both have an average discount of 73%.
+Cisco 8961 IP Phone Charcoal, Epson Perfection V600 Photo Scanner, and Lexmark MarkNet N8150 Wireless Print Server have a 70% discount.
+
+Moderate Discounts (60-69%):
+Premier Elliptical Ring Binder Black has a 64% average discount.
+Wilson Jones Custom Binder Spines & Labels has a 63% discount.
+Avery Triangle Shaped Sheet Lifters Black 2/Pack and Avery Durable Slant Ring Binders each have a 62%discount.
+
+Lower Discounts (50-59%):
+Several products, including Eldon Executive Woodline II Cherry Finish Desk Accessories and Acco PRESSTEX Data Binder with Storage Hooks, have discounts ranging between 51% and 59%.
+
+These insights highlight the most heavily discounted products, which can help identify potential sales trends or inventory clearance items.
+
 6.Which shipping modes have an average delay greater than 2 days, and how are they ranked by their average delay time?
 
 ![Query_6](https://github.com/user-attachments/assets/ea911d92-6961-4495-b3d8-cc2ce829995e)
@@ -183,6 +232,14 @@ Hewlett Packard LaserJet 3310 Copier is third with $18,839.68.
  ![Screenshot 2024-09-20 at 1 52 23 AM](https://github.com/user-attachments/assets/4e08c43a-7cf2-479a-b125-0886bfac78df)
 
 - **Insights:**
+Standard Class has the longest average delay, with an average delay time of 145.41 days.
+
+Second Class follows, with an average delay of 96.99 days.
+
+First Class has the shortest average delay among the shipping modes, with an average delay time of 63.04 days.
+
+These insights suggest that Standard Class experiences the most significant delays, while First Class is relatively quicker but still exceeds the 2-day threshold.
+
 7.Who are the top 10 customers ranked by total profit, and how much profit has each of them generated?
 
 ![Query_7](https://github.com/user-attachments/assets/b2913f58-42fa-406d-a526-a534b76cb256)
@@ -190,6 +247,22 @@ Hewlett Packard LaserJet 3310 Copier is third with $18,839.68.
  ![Screenshot 2024-09-20 at 1 52 54 AM](https://github.com/user-attachments/assets/51967b3c-272e-451c-8a7d-1f6a19725a08)
 
 - **Insights:**
+Tamara Chand is the most profitable customer, generating a total profit of $8,981.32.
+
+Raymond Buch ranks second with a total profit of $6,976.09.
+
+Sanjit Chand follows closely, generating $5,757.42 in total profit.
+
+Hunter Lopez and Adrian Barton rank fourth and fifth, with profits of $5,622.43 and $5,444.81, respectively.
+
+Tom Ashbrook ranks sixth, contributing $4,703.84 in profit.
+
+Shepherd Martinez and Keith Dawkins generate $3,899.91 and $3,038.58, respectively.
+
+Andy Reiter and Daniel Raglin round out the top 10, with profits of $2,884.61 and $2,869.08, respectively.
+
+These insights show which customers contribute the most to overall profitability, with Tamara Chand leading the group by a significant margin.
+
 8.Which products have generated total sales of less than $1000, and how are they ranked by their total sales?
 
 ![Query_8](https://github.com/user-attachments/assets/136c6bdd-0b5c-45cf-9aa4-b4d9f424342b)
@@ -197,6 +270,17 @@ Hewlett Packard LaserJet 3310 Copier is third with $18,839.68.
  ![Screenshot 2024-09-20 at 1 53 22 AM](https://github.com/user-attachments/assets/67cdbfa5-bc7e-4c92-86d0-48ee70fb8b0a)
 
 - **Insights:**
+Lowest Sales:
+Eureka Disposable Bags for Sanitaire Vibra Groomer I Upright Vac has the lowest total sales with just $1.62.
+Avery 5 follows closely with $5.76 in total sales.
+Xerox 20 has total sales of $6.48.
+
+Higher Sales (approaching $1000):
+DAX Wood Document Frame has the highest total sales under $1000, with $998.93.
+Hon Every-Day Chair Series Swivel Task Chairs and Xerox 1914 each have total sales of $967.85 and $956.3, respectively.
+
+These insights highlight the products with the lowest sales, providing useful information for identifying underperforming items that may need further attention.
+
 9.Which region has the highest average sales per order?
 
 ![Query_9](https://github.com/user-attachments/assets/f504af53-40db-400e-b8e4-b414178693fa)
@@ -204,6 +288,16 @@ Hewlett Packard LaserJet 3310 Copier is third with $18,839.68.
  ![Screenshot 2024-09-20 at 1 53 41 AM](https://github.com/user-attachments/assets/e05c5d07-8f5d-4dc7-a9e3-5d09e51475e5)
 
 - **Insights:**
+South region has the highest average sales per order at $245.65.
+
+East region follows with an average sales per order of $236.11.
+
+West region ranks third with an average of $226.13 per order.
+
+Central region has the lowest average sales per order at $215.77.
+
+These insights indicate that the South region generates the most revenue per order on average, while the Central region has the lowest average sales per order.
+
 10. Which product categories generate the highest total profit across all orders?
 
 ![Query_10](https://github.com/user-attachments/assets/17f66a70-69f8-4614-a1a7-29979b227fa9)
@@ -211,7 +305,15 @@ Hewlett Packard LaserJet 3310 Copier is third with $18,839.68.
  ![Screenshot 2024-09-20 at 1 53 59 AM](https://github.com/user-attachments/assets/bfa81d16-2766-4d04-a7f1-b1a4374f3d26)
 
 
- - **Insights:**   
+ - **Insights:**
+Technology is the most profitable category, generating a total profit of $153,416.46.
+
+Office Supplies comes in second, with a total profit of $126,113.43.
+
+Furniture ranks third, generating a total profit of $20,098.89.
+
+These insights show that Technology leads in profitability, followed by Office Supplies, with Furniture generating significantly lower profits in comparison.
+
 View : Which orders have a total sales amount greater than $5000, and what are the details of these high-value orders? 
 
 ![Query_11](https://github.com/user-attachments/assets/fd730782-99ac-471c-9ed0-c6c482f00b6f)
@@ -221,6 +323,24 @@ View : Which orders have a total sales amount greater than $5000, and what are t
  ![Screenshot 2024-09-20 at 1 54 36 AM](https://github.com/user-attachments/assets/bad1b983-bb4e-4ec7-b1fd-e8cf21e539f9)
 
 - **Insights:**
+Highest Sales:
+The highest sales are from Customer ID: TC-20900 with an order of $17,499.95, generating a profit of $8,399.98.
+Customer ID: SM-23032 placed an order for $22,638.48, with a profit of $1,811.08.
+
+Significant Losses:
+Customer ID: BM-11140 had a loss of $1,359.99 on an order worth $8,159.95.
+Customer ID: GT-16435 incurred a loss of $3,839.99 on a sale of $7,999.98.
+
+High Profits:
+Customer ID: AB-10105 made a profit of $4,946.37 on a sale worth $9,892.74.
+Customer ID: BM-11365 earned $4,630.48 on an order worth $9,449.95.
+
+Mid-Range Sales and Profits:
+Customer ID: CM-12385 generated $3,177.48 in profit from a sale of $6,354.95.
+Customer ID: TB-21400 earned $2,239.99 in profit from a sale of $6,999.96.
+
+These insights show both high-profit orders and orders that resulted in significant losses. It's useful for identifying which high-value orders may need more attention to mitigate losses or optimize profits.
+
 
 ## Recommendations
 
