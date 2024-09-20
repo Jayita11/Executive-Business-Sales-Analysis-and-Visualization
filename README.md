@@ -93,7 +93,7 @@ This project utilizes a dataset consisting of four CSV files: `Customers.csv`, `
 - **Region-wise Customers:**  
   The West region leads with 805 customers, followed by the East with 762. The Central region has 603 customers, and the South has the fewest, with 417, showing higher customer concentration in the West and East regions.
 
-## KPIs
+### KPIs :
 
 ![Screenshot 2024-09-19 at 11 36 52 PM](https://github.com/user-attachments/assets/6453c441-41f7-4006-9955-13381d748d73)
 
@@ -108,7 +108,7 @@ This project utilizes a dataset consisting of four CSV files: `Customers.csv`, `
 
 These KPIs show overall positive performance and strong growth across various metrics in 2023.
 
-## Filters
+### Filters :
 
 ![Screenshot 2024-09-19 at 11 36 09 PM](https://github.com/user-attachments/assets/2623f611-8c02-4906-997e-3f7cb0cc4134)
 
