@@ -134,7 +134,7 @@ These filters enable targeted analysis by adjusting time, location, and product 
 
  ![Screenshot 2024-09-20 at 12 59 41 AM](https://github.com/user-attachments/assets/a78c959b-e982-451a-94b0-1f1b81bbb970)
 
-- **Insights:**
+**Insights:**
   
 Furniture:
 HON 5400 Series Task Chairs for Big and Tall is the top-seller with total sales of $21,870.57.
@@ -157,7 +157,7 @@ Hewlett Packard LaserJet 3310 Copier is third with $18,839.68.
 
  ![Screenshot 2024-09-20 at 1 00 41 AM](https://github.com/user-attachments/assets/9ce6475e-c88e-4e64-abea-417568393256)
 
-- **Insights:**
+**Insights:**
 Consumer segment generates the highest total profit, with a profit of $134,119.33.
 
 Corporate segment comes in second, generating a total profit of $91,779.45.
@@ -172,7 +172,7 @@ These insights indicate that the Consumer segment is the most profitable, follow
 
  ![Screenshot 2024-09-20 at 1 01 30 AM](https://github.com/user-attachments/assets/03a99627-b522-4a87-b419-0ff400dacce6)
 
-- **Insights:**
+**Insights:**
 West region generates the highest total profit of $109,880.
 
 East region follows with a total profit of $89,278.
@@ -189,7 +189,7 @@ These insights show that the West and East regions are the most profitable, whil
 
  ![Screenshot 2024-09-20 at 1 02 52 AM](https://github.com/user-attachments/assets/3c22777e-4188-4509-9642-bff1b7bbdd2e)
 
-- **Insights:**
+**Insights:**
 Highest Order Counts:
 William Brown has the highest number of orders with 37 orders.
 John Leo and Matt Abelman both have 34 orders.
@@ -207,7 +207,7 @@ These insights show a range of customer engagement, from highly frequent buyers 
 
  ![Screenshot 2024-09-20 at 1 51 53 AM](https://github.com/user-attachments/assets/d45d6cb5-e17b-4632-b1fe-7aee71cbbfd1)
 
-- **Insights:**
+**Insights:**
 Top Discounted Product:
 Eureka Disposable Bags for Sanitaire Vibra Groomer I Upright Vac has the highest average discount of 80%.
 
@@ -231,7 +231,7 @@ These insights highlight the most heavily discounted products, which can help id
 
  ![Screenshot 2024-09-20 at 1 52 23 AM](https://github.com/user-attachments/assets/4e08c43a-7cf2-479a-b125-0886bfac78df)
 
-- **Insights:**
+**Insights:**
 Standard Class has the longest average delay, with an average delay time of 145.41 days.
 
 Second Class follows, with an average delay of 96.99 days.
@@ -246,7 +246,7 @@ These insights suggest that Standard Class experiences the most significant dela
 
  ![Screenshot 2024-09-20 at 1 52 54 AM](https://github.com/user-attachments/assets/51967b3c-272e-451c-8a7d-1f6a19725a08)
 
-- **Insights:**
+**Insights:**
 Tamara Chand is the most profitable customer, generating a total profit of $8,981.32.
 
 Raymond Buch ranks second with a total profit of $6,976.09.
@@ -269,7 +269,7 @@ These insights show which customers contribute the most to overall profitability
 
  ![Screenshot 2024-09-20 at 1 53 22 AM](https://github.com/user-attachments/assets/67cdbfa5-bc7e-4c92-86d0-48ee70fb8b0a)
 
-- **Insights:**
+**Insights:**
 Lowest Sales:
 Eureka Disposable Bags for Sanitaire Vibra Groomer I Upright Vac has the lowest total sales with just $1.62.
 Avery 5 follows closely with $5.76 in total sales.
@@ -287,7 +287,7 @@ These insights highlight the products with the lowest sales, providing useful in
 
  ![Screenshot 2024-09-20 at 1 53 41 AM](https://github.com/user-attachments/assets/e05c5d07-8f5d-4dc7-a9e3-5d09e51475e5)
 
-- **Insights:**
+**Insights:**
 South region has the highest average sales per order at $245.65.
 
 East region follows with an average sales per order of $236.11.
@@ -305,7 +305,7 @@ These insights indicate that the South region generates the most revenue per ord
  ![Screenshot 2024-09-20 at 1 53 59 AM](https://github.com/user-attachments/assets/bfa81d16-2766-4d04-a7f1-b1a4374f3d26)
 
 
- - **Insights:**
+**Insights:**
 Technology is the most profitable category, generating a total profit of $153,416.46.
 
 Office Supplies comes in second, with a total profit of $126,113.43.
@@ -322,7 +322,7 @@ View : Which orders have a total sales amount greater than $5000, and what are t
 
  ![Screenshot 2024-09-20 at 1 54 36 AM](https://github.com/user-attachments/assets/bad1b983-bb4e-4ec7-b1fd-e8cf21e539f9)
 
-- **Insights:**
+**Insights:**
 Highest Sales:
 The highest sales are from Customer ID: TC-20900 with an order of $17,499.95, generating a profit of $8,399.98.
 Customer ID: SM-23032 placed an order for $22,638.48, with a profit of $1,811.08.
