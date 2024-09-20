@@ -32,6 +32,8 @@ By harnessing this data, businesses can address key operational challenges, opti
 
 This project utilizes a dataset consisting of four CSV files: `Customers.csv`, `Location.csv`, `Orders.csv`, and `Products.csv`. These files provide a comprehensive view of the sales process, covering customer details, product information, order transactions, and regional data. The dataset enables an in-depth analysis of key metrics such as product performance, customer segments, and sales trends.
 
+[ERD.pdf](https://github.com/user-attachments/files/17069967/ERD.pdf)
+
 ## Executive Summary
 
 ### Sales Dashboard:
