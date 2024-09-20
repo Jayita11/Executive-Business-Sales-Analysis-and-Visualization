@@ -7,6 +7,9 @@ The Sales Performance Management project utilizes data from sales orders, custom
 
 As businesses face increasing complexity with varying customer demands and regional nuances, understanding sales distribution by product category, analyzing profitability across customer segments, and monitoring shipping delays become essential for strategic decision-making. This project aims to provide a comprehensive view of sales operations to help businesses.
 
+![DALL·E 2024-09-20 02 27 37 - A simple flat image representing sales and customers in an abstract style, with shapes and colors that suggest the flow of transactions and interactio](https://github.com/user-attachments/assets/c293b8c8-3f02-45d1-9893-00eaba6ec483)
+
+ 
 ## Key Insights and Recommendations
 
 - **Best-Selling Products:** Analysis of top-selling products to inform inventory management and marketing efforts, optimizing stock levels and sales strategies.
