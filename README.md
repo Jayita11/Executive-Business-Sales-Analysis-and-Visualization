@@ -31,6 +31,8 @@ This project utilizes a dataset consisting of four CSV files: `Customers.csv`, `
 
 ### Sales Dashboard:
 
+![Sales Dashboard-2](https://github.com/user-attachments/assets/b51e1cd6-9542-4069-b46e-31de6c03cbfb)
+
 - **Subcategory Comparison by Sales:**  
   Subcategories like Phones, Chairs, Binders, and Storage significantly outperformed others in 2023, indicating strong demand in these areas. Meanwhile, Fasteners, Envelopes, and Labels showed minimal growth, suggesting potential issues with demand or increased competition.
   
@@ -44,6 +46,8 @@ This project utilizes a dataset consisting of four CSV files: `Customers.csv`, `
   The West region dominated with the highest sales share at 34.11%, followed by the East region. The Central and South regions contributed less, with the South showing the smallest sales share at 16.88%. This highlights the West and East regions as the most profitable markets.
 
 ### Profit Dashboard:
+
+![Profit Dashboard -2](https://github.com/user-attachments/assets/da327cbf-eae0-491f-9467-9897044ded83)
 
 - **Subcategory Comparison by Profit:**  
   Copiers and Accessories emerged as the highest profit-generating subcategories for 2023, with Copiers having the largest profit margins. Phones, Paper, and Appliances also contributed to overall profit, while Fasteners, Envelopes, Labels, and Machines showed losses, indicating the need for strategic review in those categories.
@@ -59,6 +63,8 @@ This project utilizes a dataset consisting of four CSV files: `Customers.csv`, `
 
 ### Quantity Dashboard:
 
+![Quantity Dashboard -2](https://github.com/user-attachments/assets/47e27254-bc44-4d1d-8b4c-0ea14f78e099)
+
 - **Subcategory Comparison by Quantity:**  
   Binders, Paper, and Art led in the quantity of units sold in 2023, showing significant growth over 2022. On the other hand, Machines, Copiers, and Supplies had the lowest quantities sold, indicating lower demand in these subcategories.
   
@@ -72,6 +78,8 @@ This project utilizes a dataset consisting of four CSV files: `Customers.csv`, `
   The West region had the largest quantity sold, contributing 30.75% (3.03K units), followed by the East at 28.60% (2.81K units). The Central and South regions contributed the least, with 23.98% (2.36K units) and 16.67% (1.64K units), respectively.
 
 ### Customer Dashboard:
+
+![Customer Dashboard](https://github.com/user-attachments/assets/19d3986d-e4f0-4290-b4bb-333324b63201)
 
 - **Customer Distribution by Number of Orders:**  
   Most customers placed either 1 or 2 orders, with 200 customers in each category. As the number of orders increases, fewer customers are seen, with only a small number placing 6 or more orders, highlighting smaller, more frequent purchase habits.
@@ -87,6 +95,10 @@ This project utilizes a dataset consisting of four CSV files: `Customers.csv`, `
 
 ## KPIs
 
+![Screenshot 2024-09-19 at 11 36 52 PM](https://github.com/user-attachments/assets/6453c441-41f7-4006-9955-13381d748d73)
+
+![Screenshot 2024-09-19 at 11 37 15 PM](https://github.com/user-attachments/assets/40f3e95c-b33f-4491-b2a4-b800d67ca774)
+
 - Total Customers: 693 customers, up by 8.62% from last year, indicating growth in customer base.
 - Total Sales Per Customer: $1,058.03, an increase of 10.80%, showing higher spending per customer.
 - Total Orders: 1,687 orders, up by 28.29%, reflecting increased customer activity.
@@ -97,6 +109,8 @@ This project utilizes a dataset consisting of four CSV files: `Customers.csv`, `
 These KPIs show overall positive performance and strong growth across various metrics in 2023.
 
 ## Filters
+
+![Screenshot 2024-09-19 at 11 36 09 PM](https://github.com/user-attachments/assets/2623f611-8c02-4906-997e-3f7cb0cc4134)
 
 - **Year:** Currently set to 2023.
 - **Location:** Filters by city, state, and region (set to "All" or "Multiple values").
