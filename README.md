@@ -127,6 +127,33 @@ These KPIs show overall positive performance and strong growth across various me
 
 These filters enable targeted analysis by adjusting time, location, and product focus.
 
+### SQL Analysis :
+1.What are the top 3 best-selling products in each category based on total sales?
+
+![Screenshot 2024-09-20 at 12 59 19 AM](https://github.com/user-attachments/assets/93d2d3d8-0b3b-4cb1-ac3b-6a4c14c5951c)
+
+![Screenshot 2024-09-20 at 12 59 41 AM](https://github.com/user-attachments/assets/a78c959b-e982-451a-94b0-1f1b81bbb970)
+
+2.Which customer segment generates the highest total profit?
+
+![Screenshot 2024-09-20 at 1 00 22 AM](https://github.com/user-attachments/assets/ed68a159-7f57-4011-a193-7641777936e4)
+
+![Screenshot 2024-09-20 at 1 00 41 AM](https://github.com/user-attachments/assets/9ce6475e-c88e-4e64-abea-417568393256)
+
+3.Which region generates the highest total profit based on customer orders?
+![Screenshot 2024-09-20 at 1 01 14 AM](https://github.com/user-attachments/assets/17f7994c-285b-426b-97a4-2dd00a5962c3)
+
+![Screenshot 2024-09-20 at 1 01 30 AM](https://github.com/user-attachments/assets/03a99627-b522-4a87-b419-0ff400dacce6)
+
+4.How can we identify the most recent order for each customer, along with their total order count?
+
+![Screenshot 2024-09-20 at 1 02 32 AM](https://github.com/user-attachments/assets/11fbe86e-b6cc-48c9-9f45-56bfb5f4ef73)
+
+![Screenshot 2024-09-20 at 1 02 52 AM](https://github.com/user-attachments/assets/3c22777e-4188-4509-9642-bff1b7bbdd2e)
+
+5.Which products have an average discount greater than 50%, and how are they ranked by their average discount?
+![Screenshot 2024-09-20 at 1 03 43 AM](https://github.com/user-attachments/assets/353a3013-a9ea-4ea7-a781-1672f07fe1eb)
+
 ## Recommendations
 
 - Focus on improving customer retention strategies, especially for high-value customers like Raymond Buch and Hunter Lopez, who contribute significantly to profits. Consider offering loyalty programs or exclusive discounts to incentivize repeat purchases and strengthen relationships with these top contributors.
