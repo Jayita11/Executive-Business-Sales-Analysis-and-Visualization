@@ -19,7 +19,7 @@ As businesses face increasing complexity with varying customer demands and regio
 
 An interactive Tableau dashboard accompanies this project to provide a dynamic and visual exploration of the findings [here](https://public.tableau.com/app/profile/jayita.chatterjee/viz/SalesCustomerDashboard_17244002737510/SalesDashboard).
 
-Excel is used to inspect, clean, and prepare the data for analysis, ensuring accurate and actionable insights can be found [here](#).
+Excel is used to inspect, clean, and prepare the data for analysis, ensuring accurate and actionable insights can be found [here](https://github.com/Jayita11/Executive-Business-Sales-Analysis-and-Visualization/tree/main/Excel_Cleaning_Steps).
 
 The SQL queries regarding various business questions can be found [here](https://github.com/Jayita11/Executive-Business-Sales-Analysis-and-Visualization/tree/main/SQL).
 
