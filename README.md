@@ -139,17 +139,17 @@ Presented below are the SQL analyses addressing key business questions.
 
 **Insights:**
   
-Furniture:
+- Furniture:
 HON 5400 Series Task Chairs for Big and Tall is the top-seller with total sales of $21,870.57.
 Riverside Palais Royal Lawyers Bookcase Royale Cherry Finish ranks second with $15,610.97 in sales.
 Bretford Rectangular Conference Table Tops is the third best-seller with $12,995.28.
 
-Office Supplies:
+- Office Supplies:
 Fellowes PB500 Electric Punch Binding Machine leads with total sales of $27,453.38.
 GBC DocuBind TL300 Electric Binding System comes second with $19,823.48.
 GBC Ibimaster 500 Manual ProClick Binding System ranks third with $19,024.50.
 
-Technology:
+- Technology:
 Canon imageCLASS 2200 Advanced Copier is the best-seller with $61,599.83 in sales.
 Cisco TelePresence System EX90 Videoconferencing Unit follows with $22,638.48.
 Hewlett Packard LaserJet 3310 Copier is third with $18,839.68.
@@ -176,13 +176,13 @@ These insights indicate that the Consumer segment is the most profitable, follow
  ![Screenshot 2024-09-20 at 1 01 30 AM](https://github.com/user-attachments/assets/03a99627-b522-4a87-b419-0ff400dacce6)
 
 **Insights:**
-West region generates the highest total profit of $109,880.
+- West region generates the highest total profit of $109,880.
 
-East region follows with a total profit of $89,278.
+- East region follows with a total profit of $89,278.
 
-South region ranks third with a total profit of $48,995.
+- South region ranks third with a total profit of $48,995.
 
-Central region generates the lowest total profit of $39,706.
+- Central region generates the lowest total profit of $39,706.
 
 These insights show that the West and East regions are the most profitable, while the South and Central regions generate lower profits.
 
@@ -193,13 +193,13 @@ These insights show that the West and East regions are the most profitable, whil
  ![Screenshot 2024-09-20 at 1 02 52 AM](https://github.com/user-attachments/assets/3c22777e-4188-4509-9642-bff1b7bbdd2e)
 
 **Insights:**
-Highest Order Counts:
+- Highest Order Counts:
 William Brown has the highest number of orders with 37 orders.
 John Leo and Matt Abelman both have 34 orders.
 Paul Post and Chloris Katsenstein each have 32 orders.
 Edward Hooks and Jonathan Doherty have 31 orders.
 
-Lower Order Counts:
+- Lower Order Counts:
 Many customers have 2 to 3 orders, including Pauline Chand, Paul Knutson, Ritsa Hightower, and Tim Taslimi.
 Several customers have made only 1 order, such as Carl Jackson, Jocasta Rupert, Lela Donovan, and Ricardo Emerson.
 These insights show a range of customer engagement, from highly frequent buyers like William Brown to those with just a few purchases.
@@ -211,19 +211,19 @@ These insights show a range of customer engagement, from highly frequent buyers 
  ![Screenshot 2024-09-20 at 1 51 53 AM](https://github.com/user-attachments/assets/d45d6cb5-e17b-4632-b1fe-7aee71cbbfd1)
 
 **Insights:**
-Top Discounted Product:
+- Top Discounted Product:
 Eureka Disposable Bags for Sanitaire Vibra Groomer I Upright Vac has the highest average discount of 80%.
 
-High Discounts (70-79%):
+- High Discounts (70-79%):
 GBC Plasticlar Binding Covers and GBC VeloBinder Electric Binding Machine both have an average discount of 73%.
 Cisco 8961 IP Phone Charcoal, Epson Perfection V600 Photo Scanner, and Lexmark MarkNet N8150 Wireless Print Server have a 70% discount.
 
-Moderate Discounts (60-69%):
+- Moderate Discounts (60-69%):
 Premier Elliptical Ring Binder Black has a 64% average discount.
 Wilson Jones Custom Binder Spines & Labels has a 63% discount.
 Avery Triangle Shaped Sheet Lifters Black 2/Pack and Avery Durable Slant Ring Binders each have a 62%discount.
 
-Lower Discounts (50-59%):
+- Lower Discounts (50-59%):
 Several products, including Eldon Executive Woodline II Cherry Finish Desk Accessories and Acco PRESSTEX Data Binder with Storage Hooks, have discounts ranging between 51% and 59%.
 
 These insights highlight the most heavily discounted products, which can help identify potential sales trends or inventory clearance items.
