@@ -136,26 +136,70 @@ These filters enable targeted analysis by adjusting time, location, and product 
 
 2.Which customer segment generates the highest total profit?
 
-![Screenshot 2024-09-20 at 1 00 22 AM](https://github.com/user-attachments/assets/ed68a159-7f57-4011-a193-7641777936e4)
+![Query_2](https://github.com/user-attachments/assets/8da42bd7-c8b3-4baa-8bce-7aeda0fedb4c)
 
 ![Screenshot 2024-09-20 at 1 00 41 AM](https://github.com/user-attachments/assets/9ce6475e-c88e-4e64-abea-417568393256)
 
 3.Which region generates the highest total profit based on customer orders?
 
-![Screenshot 2024-09-20 at 1 01 14 AM](https://github.com/user-attachments/assets/17f7994c-285b-426b-97a4-2dd00a5962c3)
+![Query_3](https://github.com/user-attachments/assets/8c631dbf-c28f-4ceb-90f0-e6cca247e0c7)
 
 ![Screenshot 2024-09-20 at 1 01 30 AM](https://github.com/user-attachments/assets/03a99627-b522-4a87-b419-0ff400dacce6)
 
 4.How can we identify the most recent order for each customer, along with their total order count?
 
-![Screenshot 2024-09-20 at 1 02 32 AM](https://github.com/user-attachments/assets/11fbe86e-b6cc-48c9-9f45-56bfb5f4ef73)
+![Query_4](https://github.com/user-attachments/assets/4a33fb3e-3909-4e8f-9ba1-d81df174bbad)
 
 ![Screenshot 2024-09-20 at 1 02 52 AM](https://github.com/user-attachments/assets/3c22777e-4188-4509-9642-bff1b7bbdd2e)
 
 5.Which products have an average discount greater than 50%, and how are they ranked by their average discount?
 
-![Screenshot 2024-09-20 ![Screenshot 2024-09-20 at 1 04 41 AM](https://github.com/user-attachments/assets/dccc3341-ae1f-4e77-b775-b1df09fcb321)
-at 1 03 43 AM](https://github.com/user-attachments/assets/353a3013-a9ea-4ea7-a781-1672f07fe1eb)
+![Query_5](https://github.com/user-attachments/assets/410e2355-c160-4b9e-9e33-840d06d8ca91)
+
+![Screenshot 2024-09-20 at 1 51 53 AM](https://github.com/user-attachments/assets/d45d6cb5-e17b-4632-b1fe-7aee71cbbfd1)
+
+6.Which shipping modes have an average delay greater than 2 days, and how are they ranked by their average delay time?
+
+![Query_6](https://github.com/user-attachments/assets/ea911d92-6961-4495-b3d8-cc2ce829995e)
+
+![Screenshot 2024-09-20 at 1 52 23 AM](https://github.com/user-attachments/assets/4e08c43a-7cf2-479a-b125-0886bfac78df)
+
+7.Who are the top 10 customers ranked by total profit, and how much profit has each of them generated?
+
+![Query_7](https://github.com/user-attachments/assets/b2913f58-42fa-406d-a526-a534b76cb256)
+
+![Screenshot 2024-09-20 at 1 52 54 AM](https://github.com/user-attachments/assets/51967b3c-272e-451c-8a7d-1f6a19725a08)
+
+8.Which products have generated total sales of less than $1000, and how are they ranked by their total sales?
+
+![Query_8](https://github.com/user-attachments/assets/136c6bdd-0b5c-45cf-9aa4-b4d9f424342b)
+
+![Screenshot 2024-09-20 at 1 53 22 AM](https://github.com/user-attachments/assets/67cdbfa5-bc7e-4c92-86d0-48ee70fb8b0a)
+
+9.Which region has the highest average sales per order?
+
+![Query_9](https://github.com/user-attachments/assets/f504af53-40db-400e-b8e4-b414178693fa)
+
+![Screenshot 2024-09-20 at 1 53 41 AM](https://github.com/user-attachments/assets/e05c5d07-8f5d-4dc7-a9e3-5d09e51475e5)
+
+
+10. Which product categories generate the highest total profit across all orders?
+
+![Query_10](https://github.com/user-attachments/assets/17f66a70-69f8-4614-a1a7-29979b227fa9)
+
+![Screenshot 2024-09-20 at 1 53 59 AM](https://github.com/user-attachments/assets/bfa81d16-2766-4d04-a7f1-b1a4374f3d26)
+
+
+    
+Which orders have a total sales amount greater than $5000, and what are the details of these high-value orders? 
+
+![Query_11](https://github.com/user-attachments/assets/fd730782-99ac-471c-9ed0-c6c482f00b6f)
+
+![Screenshot 2024-09-20 at 1 56 48 AM](https://github.com/user-attachments/assets/08241a98-2f4f-41bf-9620-e1185477c934)
+
+![Screenshot 2024-09-20 at 1 54 36 AM](https://github.com/user-attachments/assets/bad1b983-bb4e-4ec7-b1fd-e8cf21e539f9)
+
+
 
 ## Recommendations
 
