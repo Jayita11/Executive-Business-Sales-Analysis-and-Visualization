@@ -128,7 +128,7 @@ These KPIs show overall positive performance and strong growth across various me
 These filters enable targeted analysis by adjusting time, location, and product focus.
 
 ### SQL Analysis :
-1.What are the top 3 best-selling products in each category based on total sales?
+**1.What are the top 3 best-selling products in each category based on total sales?**
 
 ![Query_1](https://github.com/user-attachments/assets/d4f4113f-209f-4a02-a12a-ac37f03b41b3)
 
@@ -151,7 +151,7 @@ Canon imageCLASS 2200 Advanced Copier is the best-seller with $61,599.83 in sale
 Cisco TelePresence System EX90 Videoconferencing Unit follows with $22,638.48.
 Hewlett Packard LaserJet 3310 Copier is third with $18,839.68.
 
-2.Which customer segment generates the highest total profit?
+**2.Which customer segment generates the highest total profit?**
 
 ![Query_2](https://github.com/user-attachments/assets/8da42bd7-c8b3-4baa-8bce-7aeda0fedb4c)
 
@@ -166,7 +166,7 @@ Home Office segment generates the lowest total profit, with $60,299.01.
 
 These insights indicate that the Consumer segment is the most profitable, followed by Corporate and Home Office segments.
 
-3.Which region generates the highest total profit based on customer orders?
+**3.Which region generates the highest total profit based on customer orders?**
 
 ![Query_3](https://github.com/user-attachments/assets/8c631dbf-c28f-4ceb-90f0-e6cca247e0c7)
 
@@ -183,7 +183,7 @@ Central region generates the lowest total profit of $39,706.
 
 These insights show that the West and East regions are the most profitable, while the South and Central regions generate lower profits.
 
-4.How can we identify the most recent order for each customer, along with their total order count?
+**4.How can we identify the most recent order for each customer, along with their total order count?**
 
 ![Query_4](https://github.com/user-attachments/assets/4a33fb3e-3909-4e8f-9ba1-d81df174bbad)
 
@@ -201,7 +201,7 @@ Many customers have 2 to 3 orders, including Pauline Chand, Paul Knutson, Ritsa 
 Several customers have made only 1 order, such as Carl Jackson, Jocasta Rupert, Lela Donovan, and Ricardo Emerson.
 These insights show a range of customer engagement, from highly frequent buyers like William Brown to those with just a few purchases.
 
-5.Which products have an average discount greater than 50%, and how are they ranked by their average discount?
+**5.Which products have an average discount greater than 50%, and how are they ranked by their average discount?**
 
 ![Query_5](https://github.com/user-attachments/assets/410e2355-c160-4b9e-9e33-840d06d8ca91)
 
@@ -225,7 +225,7 @@ Several products, including Eldon Executive Woodline II Cherry Finish Desk Acces
 
 These insights highlight the most heavily discounted products, which can help identify potential sales trends or inventory clearance items.
 
-6.Which shipping modes have an average delay greater than 2 days, and how are they ranked by their average delay time?
+**6.Which shipping modes have an average delay greater than 2 days, and how are they ranked by their average delay time?**
 
 ![Query_6](https://github.com/user-attachments/assets/ea911d92-6961-4495-b3d8-cc2ce829995e)
 
@@ -240,7 +240,7 @@ First Class has the shortest average delay among the shipping modes, with an ave
 
 These insights suggest that Standard Class experiences the most significant delays, while First Class is relatively quicker but still exceeds the 2-day threshold.
 
-7.Who are the top 10 customers ranked by total profit, and how much profit has each of them generated?
+**7.Who are the top 10 customers ranked by total profit, and how much profit has each of them generated?**
 
 ![Query_7](https://github.com/user-attachments/assets/b2913f58-42fa-406d-a526-a534b76cb256)
 
@@ -263,7 +263,7 @@ Andy Reiter and Daniel Raglin round out the top 10, with profits of $2,884.61 an
 
 These insights show which customers contribute the most to overall profitability, with Tamara Chand leading the group by a significant margin.
 
-8.Which products have generated total sales of less than $1000, and how are they ranked by their total sales?
+**8.Which products have generated total sales of less than $1000, and how are they ranked by their total sales?**
 
 ![Query_8](https://github.com/user-attachments/assets/136c6bdd-0b5c-45cf-9aa4-b4d9f424342b)
 
@@ -281,7 +281,7 @@ Hon Every-Day Chair Series Swivel Task Chairs and Xerox 1914 each have total sal
 
 These insights highlight the products with the lowest sales, providing useful information for identifying underperforming items that may need further attention.
 
-9.Which region has the highest average sales per order?
+**9.Which region has the highest average sales per order?**
 
 ![Query_9](https://github.com/user-attachments/assets/f504af53-40db-400e-b8e4-b414178693fa)
 
@@ -298,7 +298,7 @@ Central region has the lowest average sales per order at $215.77.
 
 These insights indicate that the South region generates the most revenue per order on average, while the Central region has the lowest average sales per order.
 
-10. Which product categories generate the highest total profit across all orders?
+**10. Which product categories generate the highest total profit across all orders?**
 
 ![Query_10](https://github.com/user-attachments/assets/17f66a70-69f8-4614-a1a7-29979b227fa9)
 
@@ -314,7 +314,7 @@ Furniture ranks third, generating a total profit of $20,098.89.
 
 These insights show that Technology leads in profitability, followed by Office Supplies, with Furniture generating significantly lower profits in comparison.
 
-View : Which orders have a total sales amount greater than $5000, and what are the details of these high-value orders? 
+**View : Which orders have a total sales amount greater than $5000, and what are the details of these high-value orders?** 
 
 ![Query_11](https://github.com/user-attachments/assets/fd730782-99ac-471c-9ed0-c6c482f00b6f)
 
