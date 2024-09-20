@@ -130,7 +130,7 @@ These filters enable targeted analysis by adjusting time, location, and product 
 ### SQL Analysis :
 1.What are the top 3 best-selling products in each category based on total sales?
 
-![image](https://github.com/user-attachments/assets/be095ea0-5c81-4a50-b90d-6a81aba79ac4)
+![Query_1](https://github.com/user-attachments/assets/d4f4113f-209f-4a02-a12a-ac37f03b41b3)
 
 ![Screenshot 2024-09-20 at 12 59 41 AM](https://github.com/user-attachments/assets/a78c959b-e982-451a-94b0-1f1b81bbb970)
 
