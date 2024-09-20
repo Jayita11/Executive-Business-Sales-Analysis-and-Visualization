@@ -128,6 +128,9 @@ These KPIs show overall positive performance and strong growth across various me
 These filters enable targeted analysis by adjusting time, location, and product focus.
 
 ### SQL Analysis :
+
+Presented below are the SQL analyses addressing key business questions.
+
 **1.What are the top 3 best-selling products in each category based on total sales?**
 
 ![Query_1](https://github.com/user-attachments/assets/d4f4113f-209f-4a02-a12a-ac37f03b41b3)
