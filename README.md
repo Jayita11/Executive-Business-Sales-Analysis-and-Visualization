@@ -132,74 +132,95 @@ These filters enable targeted analysis by adjusting time, location, and product 
 
 ![Query_1](https://github.com/user-attachments/assets/d4f4113f-209f-4a02-a12a-ac37f03b41b3)
 
-![Screenshot 2024-09-20 at 12 59 41 AM](https://github.com/user-attachments/assets/a78c959b-e982-451a-94b0-1f1b81bbb970)
+ ![Screenshot 2024-09-20 at 12 59 41 AM](https://github.com/user-attachments/assets/a78c959b-e982-451a-94b0-1f1b81bbb970)
+
+- **Insights:**
+Furniture:
+HON 5400 Series Task Chairs for Big and Tall is the top-seller with total sales of $21,870.57.
+Riverside Palais Royal Lawyers Bookcase Royale Cherry Finish ranks second with $15,610.97 in sales.
+Bretford Rectangular Conference Table Tops is the third best-seller with $12,995.28.
+Office Supplies:
+Fellowes PB500 Electric Punch Binding Machine leads with total sales of $27,453.38.
+GBC DocuBind TL300 Electric Binding System comes second with $19,823.48.
+GBC Ibimaster 500 Manual ProClick Binding System ranks third with $19,024.50.
+Technology:
+Canon imageCLASS 2200 Advanced Copier is the best-seller with $61,599.83 in sales.
+Cisco TelePresence System EX90 Videoconferencing Unit follows with $22,638.48.
+Hewlett Packard LaserJet 3310 Copier is third with $18,839.68.
 
 2.Which customer segment generates the highest total profit?
 
 ![Query_2](https://github.com/user-attachments/assets/8da42bd7-c8b3-4baa-8bce-7aeda0fedb4c)
 
-![Screenshot 2024-09-20 at 1 00 41 AM](https://github.com/user-attachments/assets/9ce6475e-c88e-4e64-abea-417568393256)
+ ![Screenshot 2024-09-20 at 1 00 41 AM](https://github.com/user-attachments/assets/9ce6475e-c88e-4e64-abea-417568393256)
 
+- **Insights:**
 3.Which region generates the highest total profit based on customer orders?
 
 ![Query_3](https://github.com/user-attachments/assets/8c631dbf-c28f-4ceb-90f0-e6cca247e0c7)
 
-![Screenshot 2024-09-20 at 1 01 30 AM](https://github.com/user-attachments/assets/03a99627-b522-4a87-b419-0ff400dacce6)
+ ![Screenshot 2024-09-20 at 1 01 30 AM](https://github.com/user-attachments/assets/03a99627-b522-4a87-b419-0ff400dacce6)
 
+- **Insights:**
 4.How can we identify the most recent order for each customer, along with their total order count?
 
 ![Query_4](https://github.com/user-attachments/assets/4a33fb3e-3909-4e8f-9ba1-d81df174bbad)
 
-![Screenshot 2024-09-20 at 1 02 52 AM](https://github.com/user-attachments/assets/3c22777e-4188-4509-9642-bff1b7bbdd2e)
+ ![Screenshot 2024-09-20 at 1 02 52 AM](https://github.com/user-attachments/assets/3c22777e-4188-4509-9642-bff1b7bbdd2e)
 
+- **Insights:**
 5.Which products have an average discount greater than 50%, and how are they ranked by their average discount?
 
 ![Query_5](https://github.com/user-attachments/assets/410e2355-c160-4b9e-9e33-840d06d8ca91)
 
-![Screenshot 2024-09-20 at 1 51 53 AM](https://github.com/user-attachments/assets/d45d6cb5-e17b-4632-b1fe-7aee71cbbfd1)
+ ![Screenshot 2024-09-20 at 1 51 53 AM](https://github.com/user-attachments/assets/d45d6cb5-e17b-4632-b1fe-7aee71cbbfd1)
 
+- **Insights:**
 6.Which shipping modes have an average delay greater than 2 days, and how are they ranked by their average delay time?
 
 ![Query_6](https://github.com/user-attachments/assets/ea911d92-6961-4495-b3d8-cc2ce829995e)
 
-![Screenshot 2024-09-20 at 1 52 23 AM](https://github.com/user-attachments/assets/4e08c43a-7cf2-479a-b125-0886bfac78df)
+ ![Screenshot 2024-09-20 at 1 52 23 AM](https://github.com/user-attachments/assets/4e08c43a-7cf2-479a-b125-0886bfac78df)
 
+- **Insights:**
 7.Who are the top 10 customers ranked by total profit, and how much profit has each of them generated?
 
 ![Query_7](https://github.com/user-attachments/assets/b2913f58-42fa-406d-a526-a534b76cb256)
 
-![Screenshot 2024-09-20 at 1 52 54 AM](https://github.com/user-attachments/assets/51967b3c-272e-451c-8a7d-1f6a19725a08)
+ ![Screenshot 2024-09-20 at 1 52 54 AM](https://github.com/user-attachments/assets/51967b3c-272e-451c-8a7d-1f6a19725a08)
 
+- **Insights:**
 8.Which products have generated total sales of less than $1000, and how are they ranked by their total sales?
 
 ![Query_8](https://github.com/user-attachments/assets/136c6bdd-0b5c-45cf-9aa4-b4d9f424342b)
 
-![Screenshot 2024-09-20 at 1 53 22 AM](https://github.com/user-attachments/assets/67cdbfa5-bc7e-4c92-86d0-48ee70fb8b0a)
+ ![Screenshot 2024-09-20 at 1 53 22 AM](https://github.com/user-attachments/assets/67cdbfa5-bc7e-4c92-86d0-48ee70fb8b0a)
 
+- **Insights:**
 9.Which region has the highest average sales per order?
 
 ![Query_9](https://github.com/user-attachments/assets/f504af53-40db-400e-b8e4-b414178693fa)
 
-![Screenshot 2024-09-20 at 1 53 41 AM](https://github.com/user-attachments/assets/e05c5d07-8f5d-4dc7-a9e3-5d09e51475e5)
+ ![Screenshot 2024-09-20 at 1 53 41 AM](https://github.com/user-attachments/assets/e05c5d07-8f5d-4dc7-a9e3-5d09e51475e5)
 
-
+- **Insights:**
 10. Which product categories generate the highest total profit across all orders?
 
 ![Query_10](https://github.com/user-attachments/assets/17f66a70-69f8-4614-a1a7-29979b227fa9)
 
-![Screenshot 2024-09-20 at 1 53 59 AM](https://github.com/user-attachments/assets/bfa81d16-2766-4d04-a7f1-b1a4374f3d26)
+ ![Screenshot 2024-09-20 at 1 53 59 AM](https://github.com/user-attachments/assets/bfa81d16-2766-4d04-a7f1-b1a4374f3d26)
 
 
-    
-Which orders have a total sales amount greater than $5000, and what are the details of these high-value orders? 
+ - **Insights:**   
+View : Which orders have a total sales amount greater than $5000, and what are the details of these high-value orders? 
 
 ![Query_11](https://github.com/user-attachments/assets/fd730782-99ac-471c-9ed0-c6c482f00b6f)
 
 ![Screenshot 2024-09-20 at 1 56 48 AM](https://github.com/user-attachments/assets/08241a98-2f4f-41bf-9620-e1185477c934)
 
-![Screenshot 2024-09-20 at 1 54 36 AM](https://github.com/user-attachments/assets/bad1b983-bb4e-4ec7-b1fd-e8cf21e539f9)
+ ![Screenshot 2024-09-20 at 1 54 36 AM](https://github.com/user-attachments/assets/bad1b983-bb4e-4ec7-b1fd-e8cf21e539f9)
 
-
+- **Insights:**
 
 ## Recommendations
 
