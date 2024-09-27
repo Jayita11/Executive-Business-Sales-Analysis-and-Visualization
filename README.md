@@ -40,7 +40,7 @@ The Entity Relationship Diagram(ERD) for the data is mentioned below
 ![ERD_1](https://github.com/user-attachments/assets/b9802d84-3ce1-432b-8b86-63c29da1b820)
 
 ## Executive Summary
-
+Here the Tableau dashboard is explained in detail, and the SQL business question answers are thoroughly covered.
 ### Sales Dashboard:
 
 ![Sales Dashboard-2](https://github.com/user-attachments/assets/b51e1cd6-9542-4069-b46e-31de6c03cbfb)
