@@ -105,7 +105,7 @@ Here the Tableau dashboard is explained in detail, and the SQL business question
 - **Region-wise Customers:**  
   The West region leads with 805 customers, followed by the East with 762. The Central region has 603 customers, and the South has the fewest, with 417, showing higher customer concentration in the West and East regions.
 
-### KPIs :
+### Key Performance Indicators (KPIs) :
 
 ![Screenshot 2024-09-19 at 11 36 52 PM](https://github.com/user-attachments/assets/6453c441-41f7-4006-9955-13381d748d73)
 
